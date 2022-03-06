@@ -2,17 +2,16 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+{% for post in site.posts %}
+  <div class="col-6 col-12-narrower">
+    <section class="box special">
+      <span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt }}</p>
+      <ul class="actions special">
+        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button alt">Read More</a></li>
+      </ul>
+    </section>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+  </div>
+{% endfor %}
