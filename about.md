@@ -3,14 +3,3 @@ layout: page
 title: Contact us
 permalink: /contact-us/
 ---
-
-<section class="box special">
-  <header class="major">
-    {{ content }}
-  </header>
-  <span class="image featured">
-    <div class="video-container">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQf_Kfxf7iNuNp1P0Ewwr177SC7tnFbJTkQHFGV1aYAzlVIA/viewform?embedded=true" width="340" height="931" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-    </div>
-  </span>
-</section>
