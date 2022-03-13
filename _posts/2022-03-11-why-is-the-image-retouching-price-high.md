@@ -5,7 +5,8 @@ title: Why is the image retouching price high?
 
 Compared to what? Outsourcing your retouching needs will free up your time to do other tasks that can be more beneficial to you.
 
-![]({{ site.baseurl }}/images/why-is-the-image-retouching-price-high.jpg)
+
+<span class="image fit"><img src="{{ site.baseurl }}/images/why-is-the-image-retouching-price-high.jpg" alt="" loading="lazy"></span>
 
 As a commercial photographer, I had my own in-house retouching team to do the retouching. That enabled me to focus on shooting the assignments and client meetings.
 Being a retoucher is a profession on its own and a good retoucher doesn’t come cheap, however, the retouching cost is passed on to the client in the end.
