@@ -2,6 +2,7 @@
 published: true
 title: Do professional photographers use flash?
 ---
+<section class="box special">
 <span class="image featured"><img src="{{ site.baseurl }}/images/do-professional-photographers-use-flash.jpg" loading="lazy" alt=""></span>
 Some do, others don’t. It depends on your specialisation. Photographers work with light. Some prefer natural/ambient light, some add LED/tungsten/HMI lights to their skillsets and others venture into flash photography with light modifiers.
 
@@ -15,3 +16,5 @@ Flash photography gives control and accuracy, especially with colours. With cont
 
 For example, I was shooting a hotel room and the client wanted to see the sunlight coming in. It was the wrong time of the day and the wrong weather conditions (overcast day.) The solution, rig a flash outside, strong enough to simulate sunshine coming through.
 Flash photography puts you in control of the light and you can shape it the way you see it.
+
+</section>
