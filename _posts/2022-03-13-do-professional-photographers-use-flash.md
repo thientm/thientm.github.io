@@ -5,7 +5,8 @@ title: Do professional photographers use flash?
 
 Some do, others don’t. It depends on your specialisation. Photographers work with light. Some prefer natural/ambient light, some add LED/tungsten/HMI lights to their skillsets and others venture into flash photography with light modifiers.
 
-![]({{ site.baseurl }}/images/do-professional-photographers-use-flash.jpg)
+<span class="image fit"><img src="{{ site.baseurl }}/images/do-professional-photographers-use-flash.jpg" alt="" loading="lazy"></span>
+
 Sometimes your assignment will not allow flash usage and you adapt. It doesn’t hurt to learn about light and how to control and shape it. Light and cameras are the tools we have to create our vision. The more you learn, the better you can adapt.
 
 For instance, a lot of real-estate photographers shoot their house assignments with only ambient light (3–5 exposures bracketing). Some portrait photographers rely on natural light and fast lenses. Landscape photographers do most of their work without flash (there are some that are bringing portable flash units with them).
