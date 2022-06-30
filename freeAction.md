@@ -48,7 +48,7 @@ permalink: /download-free-action/
 
   <div class="col-6 col-12-narrower">
     <section class="box special">
-      <h3>WorkSpaces Fast Shortcut</h3>
+      <h3>WorkSpace Fast Shortcuts</h3>
       <span class="image featured"><img src="{{ site.baseurl }}/images/workspace.jpg" loading="lazy" alt="" /></span>
       <ul class="actions special">
         <li><a href="{{ site.baseurl }}/download/WorkSpaces_EditHere.zip" class="button alt">Free Download</a></li>
