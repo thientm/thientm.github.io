@@ -45,4 +45,48 @@ permalink: /download-free-action/
       </ul>
     </section>
   </div>
+
+  <div class="col-6 col-12-narrower">
+    <section class="box special">
+      <h3>WorkSpaces Fast Shortcut</h3>
+      <span class="image featured"><img src="{{ site.baseurl }}/images/workspace.jpg" loading="lazy" alt="" /></span>
+      <ul class="actions special">
+        <li><a href="{{ site.baseurl }}/download/WorkSpaces_EditHere.zip" class="button alt">Free Download</a></li>
+      </ul>
+    </section>
+  </div>
+
+<div class="col-6 col-12-narrower">
+    <section class="box special">
+      <h3>Fireplace</h3>
+      <span class="image featured"><img src="{{ site.baseurl }}/images/fireplace.jpg" loading="lazy" alt="" /></span>
+      <ul class="actions special">
+        <li><a href="{{ site.baseurl }}/download/fireplace1.jpg" class="button alt">Free Download</a></li>
+      </ul>
+    </section>
+  </div>
+
+<div class="col-6 col-12-narrower">
+    <section class="box special">
+      <h3>Grass</h3>
+      <span class="image featured"><img src="{{ site.baseurl }}/images/grass.jpg" loading="lazy" alt="" /></span>
+      <ul class="actions special">
+        <li><a href="{{ site.baseurl }}/download/grass1.jpg" class="button alt">Free Download</a></li>
+      </ul>
+    </section>
+  </div>
+
+
+<div class="col-6 col-12-narrower">
+    <section class="box special">
+      <h3>Sky</h3>
+      <span class="image featured"><img src="{{ site.baseurl }}/images/sky.jpg" loading="lazy" alt="" /></span>
+      <ul class="actions special">
+        <li><a href="{{ site.baseurl }}/download/sky1.jpg" class="button alt">Free Download</a></li>
+      </ul>
+    </section>
+  </div>
+
+
+
 </div>
